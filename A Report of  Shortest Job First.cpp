@@ -35,7 +35,7 @@ void Sort(struct process *p1,struct process *p2){
 				}
 			}
 
-int main()
+void main()
 {
 	int time=0,i=0,bt=0,ii=0;
 	for(i=0;i<4;i++)
